@@ -1,2 +1,3 @@
-# desafio_de_projeto_dio
-Linux Experience
+# Repositório do desafio de projeto DIO: Linux Experience
+
+ - sobre Git/GitHub
