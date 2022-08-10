@@ -1,0 +1,2 @@
+Link para download do Git https://git-scm.com/download/linux
+o git Bash é um console/terminal extendido para usar o git através do CLI
